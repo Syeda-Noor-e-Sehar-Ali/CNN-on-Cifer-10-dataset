@@ -1,1 +1,5 @@
 # CNN-on-Cifer-10-dataset
+Convolutional Neural Networks (CNNs) are pivotal in image classification, particularly on datasets like CIFAR-10. CIFAR-10 comprises 60,000 32x32 color images across 10 classes, facilitating robust model training and evaluation.
+CNN architectures typically start with convolutional layers that extract features, followed by pooling layers to downsample and retain critical information efficiently. These networks culminate in fully connected layers that classify extracted features into respective classes.
+During training, CNNs employ backpropagation to adjust weights and biases, minimizing the discrepancy between predicted and actual labels using loss functions such as cross-entropy. Techniques like dropout mitigate overfitting by randomly dropping neurons during training.
+CNNs' efficacy in discerning intricate patterns from images makes them indispensable for tasks demanding nuanced feature detection and accurate classification, exemplified by their success on challenging datasets like CIFAR-10.
